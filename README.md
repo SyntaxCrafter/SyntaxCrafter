@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Vansh Tripathi 👋, I’m a Full Stack Developer focused on the intersection of SaaS, Generative AI, and Data Intelligence. I specialize in building high-conversion UX backed by complex, scalable backend logic.<br>From "zero-to-one" startup builds to architecting enterprise-ready applications, I ship code designed to scale and stay built.<br><br><br>-Engineer. Mentor. Architect.<br><br>Obsessed with the intersection of SaaS, Gen-AI, and Data Intelligence. From 11 internships to judging 200+ hackathon teams, I specialize in the "zero-to-one" build.<br><br>Core Toolkit:<br>💻 Frontend/Backend: MERN Stack, Scalable Architectures<br>🤖 AI/Data: Gen-AI Features, Power BI, Python<br>🎙️ Community: Public Speaker & Startup Enthusiast<br><br>Let’s build something that scales.<br><br>📫 Currently Seeking: High-impact SDE or Full Stack roles.
 
 
